@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Técnicas / Conceitos Estudados
+## ⚙️ Techniques / Concepts Covered
 - Day 1: Foundational Models & Prompt Engineering;
 - Day 2: Embeddings and Vector Stores/Databases;
 - Day 3: Generative AI Agents;
