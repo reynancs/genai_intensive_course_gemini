@@ -4,9 +4,36 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-GenAI Intensive Course with Gemini by Kaggle
+# 📝 Course / Labs Name
 
-## Project Organization
+> GenAI Intensive Course with Google Gemini
+
+---
+
+## 📊 Dataset
+
+- Source: [https://www.kaggle.com/learn-guide/5-day-genai]
+
+---
+
+## ⚙️ Técnicas / Conceitos Estudados
+- Day 1: Foundational Models & Prompt Engineering;
+- Day 2: Embeddings and Vector Stores/Databases;
+- Day 3: Generative AI Agents;
+- Day 4: Domain-Specific LLMs;
+- Day 5: MLOps for Generative AI;
+
+---
+
+## 💡 Lessons Learned
+
+- `AI Agent:` How to build an AI Agent using Gemini SDK
+- `RAG:` How to use RAG in AI Agents
+
+---
+
+## 📁 Project Organization
+
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
