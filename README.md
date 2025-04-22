@@ -6,13 +6,13 @@
 
 # 📝 Course / Labs Name
 
-> GenAI Intensive Course with Google Gemini
+> 5-Day Gen AI Intensive Course with Google & Kaggle
 
 ---
 
 ## 📊 Dataset
 
-- Source: [https://www.kaggle.com/learn-guide/5-day-genai]
+- Source: ![Kaggle](https://www.kaggle.com/learn-guide/5-day-genai)
 
 ---
 
@@ -27,8 +27,13 @@
 
 ## 💡 Lessons Learned
 
-- `AI Agent:` How to build an AI Agent using Gemini SDK
-- `RAG:` How to use RAG in AI Agents
+- Capstone Project:
+"You must demonstrate what you've learned in this course by applying it to a use case of your choosing in a Kaggle Notebook. You must demonstrate in your code at least three (3) of the generative AI capabilities you learned in this course (see the Gen AI capabilities section)."
+Gen Ai Capabilities Applied:
+- `AI Agent:` Build an AI Agent using Gemini SDK
+- `RAG:` Use RAG in AI Agents
+- `Function Calling`: Function Calling in AI Agents
+
 
 ---
 
